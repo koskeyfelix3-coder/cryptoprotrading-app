@@ -1,7 +1,0 @@
-{
-  "name": "cryptoprotrading-app",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "echo 'Static site - no build needed'"
-  }
-}
